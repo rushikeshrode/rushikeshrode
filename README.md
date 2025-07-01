@@ -1,12 +1,25 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there, I'm <span style="color:#00bfff;">Rushikesh Rode</span></h1>
-<h3 align="center">🚀 Software Developer | 🧠 Spring Boot & Microservices | 🌐 Angular | ☁️ Cloud Enthusiast</h3>
+
+<h3 align="center">
+  🚀 <span style="color:#facc15;">Software Developer</span> &nbsp;|&nbsp; 
+  🧠 <span style="color:#34d399;">Spring Boot & Microservices</span> &nbsp;|&nbsp; 
+  🌐 <span style="color:#60a5fa;">Angular</span> &nbsp;|&nbsp; 
+  🔧 <span style="color:#a78bfa;">DevOps Enthusiast</span>
+</h3>
+
+
 
 <p align="center">
-  <a href="mailto:rushikeshrode01@gmail.com"><img src="https://img.shields.io/badge/Email-rushikeshrode01@gmail.com-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rushikeshrode" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Rushikesh%20Rode-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://github.com/rushikeshrode"><img src="https://img.shields.io/github/followers/rushikeshrode?label=Follow&style=social"></a>
+  <a href="mailto:rushikeshrode01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/rushikesh-rode-097572312/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rushikesh%20Rode-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rushikeshrode&style=for-the-badge&color=blueviolet" alt="Profile Views Badge"/>
 </p>
+
 
 ---
 
